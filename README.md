@@ -1,2 +1,2 @@
 # Call and Response Song AI
-Generating funny lyrics to call and response songs.
+Generating response lyrics to call and response songs.
