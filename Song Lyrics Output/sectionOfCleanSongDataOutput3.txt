@@ -1,0 +1,584 @@
+Epoch 1/20
+2709/2709 [==============================] - 190s 70ms/step - loss: 1.7491
+Epoch 2/20
+2709/2709 [==============================] - 179s 66ms/step - loss: 1.2575
+Epoch 3/20
+2709/2709 [==============================] - 175s 65ms/step - loss: 1.1890
+Epoch 4/20
+2709/2709 [==============================] - 174s 64ms/step - loss: 1.1505
+Epoch 5/20
+2709/2709 [==============================] - 170s 63ms/step - loss: 1.1233
+####################
+Temperature: 0.2
+####################
+t to be with you  
+I want to be with you  
+I want to be with you  
+I'm not the only one  
+That I was so hard to be  
+And I was so so far away  
+I will always be the one  
+I was so strong  
+I want to be with you  
+I want to be with you  
+I want to be with you  
+I want to be with you  
+  
+I'm a man I 
+
+ing  
+I want to be with you  
+I want to know what I want to do  
+I want to be with you  
+I want to be with you  
+I don't want to be with you  
+I want to see you the sun  
+  
+[Chorus]  
+  
+I want to see you and me  
+And I was so hard to be  
+I want to be with you  
+  
+I can tell you what I want to do
+
+one  
+I want to be with you  
+I want to be with you  
+I want to be with you  
+I want to be with you  
+I'll be the only one  
+I want to be with you  
+I want to be with you  
+I want to be with you  
+I'm not the only one  
+I was feelin' like a book and star  
+I wish I was so so far away  
+I don't wanna
+
+####################
+Temperature: 0.5
+####################
+ 
+I need to make you see me  
+But now I want to love you  
+I said goodbye  
+It's a super band  
+Waiting for the stars that I still be  
+And I can't fill the way I love you  
+Who would ever be  
+  
+[Chorus]  
+  
+I was gonna stop the best there was a party  
+The silent arms of blue  
+And he are a litt
+
+ssin' (Show me the time like a reason for me  
+I wish I would have been gotta be  
+Now I still be so hard  
+The words  
+We're still watching the door  
+I was the day of the moon  
+You got to tell me to die  
+  
+[Chorus]  
+I was heading on the country paradise  
+Let me see the way you are  
+And I was
+
+ime  
+So long, so I give you to the other side  
+And I'm ready for you  
+I took you and I try  
+Just another lonely lines  
+  
+So I'll travel the door to the story  
+And leave you that I belong, with you  
+  
+For Here like blue  
+  
+You can get to me  
+Don't tell me now  
+It was a horse on the river
+
+####################
+Temperature: 1.0
+####################
+unger  
+And I'm feeling you  
+You'll be kind on the run days  
+I'm just little bike I'm gonna want you,  
+But said a bottle of gaon.  
+But I need to say  
+That's the underate  
+  
+[Chorus]  
+  
+I swing tickets are opeth ends  
+Dambibly house shoulda just in  
+So much you feel so forever  
+Brinad the
+
+ the memoried blood""  
+Bay standing next tonight  
+It an old day who was on  
+We just could never be waiting  
+Boom, bittie 'railer  
+My love you behind me?  
+Living in the heart slipped the line  
+Some day it brings me to thing I ware  
+And you only feel good!  
+  
+Got nowhoo, you?
+
+",
+"I got the 
+
+s Nick  
+  
+River watter for love is just amowe, you're not the line (like golden way)  
+That bloodmis, rock in party, just can't feel the bend young  
+All I'm thinking of you  
+The sun sing the other, swear to-yeah  
+Even who pretty bob 'bas it's still showed illuty  
+She's ot the floor, dirty door
+
+Epoch 6/20
+2709/2709 [==============================] - 166s 61ms/step - loss: 1.1015
+Epoch 7/20
+2709/2709 [==============================] - 171s 63ms/step - loss: 1.0830
+Epoch 8/20
+2709/2709 [==============================] - 169s 62ms/step - loss: 1.0660
+Epoch 9/20
+2709/2709 [==============================] - 168s 62ms/step - loss: 1.0500
+Epoch 10/20
+2709/2709 [==============================] - 167s 62ms/step - loss: 1.0347
+####################
+Temperature: 0.2
+####################
+ to live  
+I want to sleep all alone  
+I said I want to be  
+And I don't wanna see  
+I wanna see you all the things that you do  
+I don't want to learn to fight  
+I want to be there to stay  
+I can see the moon  
+I said some mercy  
+I can see the street light  
+We can stay for the street  
+And the s
+
+ 
+I was so strong  
+I can see the stream  
+I saw the world will be the one that she can do  
+  
+I said it was a storm  
+  
+I wanna see you in my mind  
+I want to be with you  
+I can't let you go  
+I don't want to leave you  
+I don't want to learn to fall  
+And I can see the street  
+I was so strong 
+
+ lonely  
+When I see you all the time  
+I said you wanted me to me  
+I can tell you what I do  
+I don't want to live forever  
+  
+I'm a super life, I saw your soul  
+  
+I want to be there to say  
+I can see the sun  
+I don't want to live forever  
+I want to be there to see  
+  
+When I did the sun  
+
+
+####################
+Temperature: 0.5
+####################
+fore  
+I can see the crazy I can stay  
+Faith in the rest of my heart  
+And now I can see you all the way  
+When you're going away  
+I can take you through the Park  
+And I never needed another world  
+How could I  
+Could never be a little more  
+I know what it is  
+I don't want to hold  
+Back and I
+
+h the lights  
+When you think I was a small star  
+The stars of 1 to come back  
+I can tell you why I feel so good to you  
+Maybe that I can be better  
+  
+I'm the one that I live for  
+And I'm not there to make you cry  
+  
+You can stay away  
+  
+[Chorus]  
+  
+[Chorus]  
+  
+Whoa, oh  
+  
+I was sure
+
+
+When I think I could have been waiting  
+  
+And you got to stay alibish  
+And I'm gonna tell you  
+What did you do  
+I don't want to find you  
+I can hear you call me  
+I said you would be the love you're doing  
+Make it right  
+  
+I can see the train is falling  
+And she made this man  
+When the s
+
+####################
+Temperature: 1.0
+####################
+ there anytime  
+Won't ever be dear  
+  
+[AHP.]
+  
+I was so lonely, you don't know what to do  
+  
+Me (everybody, What be me)  
+You're my
+little of that!  
+Beyonjew we'd walked on E.  
+And the boyfand gently life  
+We can blame you in the dix, a flow.  
+Cause we're down to repeat
+
+",
+"Had it come fr
+
+boat and
+
+",
+"Cat is bound up and will  
+The last great door  
+Cause I can, no Dul-a-lind  
+He was hooking there  
+I've threw what I swear to you  
+I won't know her weeter take me easy  
+I never thought I'd like to last or round  
+  
+What's the queen of my head  
+To do that boys on you  
+Then you're
+
+where it have to face.  
+  
+but it's to me, baby maybe I love you....  
+You  
+I say one day on  
+It's all that it can do  
+A smile song on dear and they say  
+In the night I'm doin' my bard  
+My life is like New Year  
+  
+Like the musick you and that's a thousand things  
+That before I am strange ti
+
+Epoch 11/20
+2709/2709 [==============================] - 163s 60ms/step - loss: 1.0200
+Epoch 12/20
+2709/2709 [==============================] - 167s 62ms/step - loss: 1.0059
+Epoch 13/20
+2709/2709 [==============================] - 167s 62ms/step - loss: 0.9905
+Epoch 14/20
+2709/2709 [==============================] - 166s 61ms/step - loss: 0.9757
+Epoch 15/20
+2709/2709 [==============================] - 167s 62ms/step - loss: 0.9608
+####################
+Temperature: 0.2
+####################
+way from the town  
+We'll be the same old song  
+And the sun goes down a little moon  
+The world is so far away  
+  
+I want to be with you  
+I want you to see me the same  
+Oh yeah  
+  
+I was so so far away  
+There's a girl they're standing on the floor  
+I was sweet the sun  
+I was so sleepy and I 
+
+ 
+Paki sabi na lang  
+(paki sabi na langgang nais kong malait  
+Paki sabi na lang  
+(paki sabi na lang)  
+Paki sabi na lang  
+(paki sabi na lang)  
+I and I know you're gone  
+I'd like to sit and watch it  
+You can see the streets and the sea  
+  
+The world is gone  
+And it's all the time  
+And I am 
+
+ 
+I want to be with you  
+I'm gonna let you go  
+And if they could see the streets  
+And the sun goes down  
+  
+Well I was so so cold  
+I was so strong with you  
+I would have seen a lot of things to say  
+The world is full of the fight  
+And the sun goes down and drop it all  
+  
+I was so good at t
+
+####################
+Temperature: 0.5
+####################
+ng  
+And the things you say  
+  
+I never thought I was hearts  
+When you stay at the ground  
+And baby, I'm on fire  
+Yeah I try to care what it's all about  
+When I was too long  
+  
+I'm not a family and stuff  
+I'm gonna work out for you.  
+  
+I the time is for the time  
+Or we don't want to be  
+
+
+Cause I'm still alive and watch it  
+He was a song that I had the street  
+And I got to keep my girl  
+The world is gone  
+  
+It's not so good  
+I know you're always burning  
+You can walk in the sky  
+She's got the picture  
+The beat so blood  
+  
+Let the music of desire  
+For the sun was gone  
+Wh
+
+mean the world to you  
+  
+I can see  
+My heart would kiss your heart  
+  
+And if you come to me  
+Can't cover it up, can't you see  
+You got to hear  
+I won't be the same  
+  
+I'll be a man with you  
+But I want you bad  
+I want you to stay  
+But you can't make it alone  
+  
+I want to be there  
+  
+
+####################
+Temperature: 1.0
+####################
+eces  
+[Chorus]  
+  
+Paid on the wind, and your gone stops away  
+Your fingers you can't take back track  
+And I'm all alone  
+Lets listen to some love busy and the sand  
+Nothing had no frozen, its still and growing  
+And it's Lurst Dancing Theero Clians  
+Call me run free trembling.  
+Caver around
+
+zon rock whets down  
+Said the girls... you can call it on. Chorus,  
+He was a snowflated altire  
+Watch the walls are so far  
+Good love, loving every, don't come outsidn I feel seel  
+Is all that I can give a damn, feet, kick my bones and love  
+Every guy in Chiporitic  
+Come on it's Bloody Bullie
+
+loning ladies  
+You took my tough tire through the fieses  
+Yeah, yeah  
+  
+Hey, my danger day
+
+",
+"[Chorus]  
+Buy your love, works there  
+Right on up with my taition  
+(You only love her)  
+And lying on a strange stop  
+And I'm proud to be yours  
+Nothing can help it to spinning!  
+Down or farmer 
+
+Epoch 16/20
+2709/2709 [==============================] - 164s 60ms/step - loss: 0.9458
+Epoch 17/20
+2709/2709 [==============================] - 171s 63ms/step - loss: 0.9308
+Epoch 18/20
+2709/2709 [==============================] - 169s 62ms/step - loss: 0.9158
+Epoch 19/20
+2709/2709 [==============================] - 168s 62ms/step - loss: 0.9009
+Epoch 20/20
+2709/2709 [==============================] - 167s 62ms/step - loss: 0.8867
+####################
+Temperature: 0.2
+####################
+e with you  
+It's all over  
+Being in the sky  
+I was so strong  
+I want to be with you  
+It's a cold and a book about my heart  
+  
+I want to be with you  
+It's a crazy some thing I do  
+I wanna hold you tonight  
+I wanna hold you tonight  
+I want to be with you  
+And I was a love that I could see 
+
+I will be the one to blame  
+They say that you've got to go  
+  
+I want to be with you  
+It's a long way to go  
+I want to be with you  
+It's a song that I can stay  
+The world is full of the best of the sun  
+  
+I was so so clear  
+  
+I want to be with you  
+It's the only thing I have to do  
+I wou
+
+ of love  
+Cause I can't help but love you so  
+  
+I was so so lonely  
+I want to be there for you  
+I would be the one to be a party  
+And I was falling in love with you  
+  
+I was a stranger in my heart  
+  
+I was so so that way  
+I don't want to live forever  
+I wanna be the one to believe  
+That
+
+####################
+Temperature: 0.5
+####################
+erway  
+And the stars all right  
+  
+Baby this long distance is falling  
+And when you wake up the streets  
+And a hollywood treat the waves  
+And the day that I make you cry  
+I know you're the only one that hurt the hurt  
+And if the end of time  
+Stronger than the rain  
+The whole world is kind o
+
+m on my stranger  
+Make you feel so high  
+We'll be the one to see  
+A little love is love  
+So why do I try  
+You better let me go to the plains  
+And I want to know you  
+I can't get enough of you  
+The silence of those season  
+  
+She said, ""Honey, I'm the one to be strong  
+  
+When I was your m
+
+  
+And the world is full of peace  
+And you're a roll on my bones  
+I know the way that I get through  
+I can't get excited, can't get excited  
+There's a sound with a brand new shoes  
+But if thousand my head will be  
+And I don't know what to do  
+And I'll be here anyway  
+  
+My heart beats for su
+
+####################
+Temperature: 1.0
+####################
+ 
+Behavior the stairs  
+To love every single one you real?  
+  
+They kils me a miles and hold out alone  
+It's not all your small thoughts and blue  
+  
+You are my singingly, understanding  
+Chains and the gun  
+Keep an ous pussy.  
+And we run tire she was tiil orhangemus one  
+  
+There ain't no mor
+
+d of will down to the wine  
+A caff my body my cold up is riding  
+And cogner is remind the spader said dough  
+I was classic music one little birds and watched my everything  
+  
+Yeah there's no wine (fool in a big land and) and a voice they're wrong for eternity  
+Oh  
+I don't want to live, I thin
+
+r name  
+Rise up yeah the sun is so afraid  
+waiting again in the Book
+ 
+Take me to your rising and perfection sweatery  
+With a phone last night there climb the clown  
+Sleeping will understand, today  
+And they come true  
+If we to do now you could ask it with what you got  
+I can't hold like I've

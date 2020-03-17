@@ -1,0 +1,588 @@
+Training new model w/ 3-layer, 128-cell LSTMs
+Training on 2,774,479 character sequences.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:1033: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:1020: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+Epoch 1/20
+2709/2709 [==============================] - 181s 67ms/step - loss: 2.2315
+Epoch 2/20
+2709/2709 [==============================] - 177s 65ms/step - loss: 1.2748
+Epoch 3/20
+2709/2709 [==============================] - 172s 64ms/step - loss: 1.1982
+Epoch 4/20
+2709/2709 [==============================] - 168s 62ms/step - loss: 1.1573
+Epoch 5/20
+2709/2709 [==============================] - 169s 62ms/step - loss: 1.1285
+####################
+Temperature: 0.2
+####################
+t she was a fame  
+The world is all the time  
+I was gonna be a fame on my mind  
+I want to leave you  
+I wanna leave you  
+I got to get to the back  
+There was a new love  
+I was a strange of the line  
+I can see you any more  
+I want to leave you  
+I want to leave you  
+I'll be there when you let 
+
+d I won't take a love  
+It's a shore that I want to  
+And I want to be  
+I want to be there  
+I want to be a stone  
+I can't stand the strength  
+I was the one to hold you  
+I want to be there  
+I want to be there  
+I want to be there  
+I want to be a friend  
+I can't let you go  
+And I was so hard 
+
+of love  
+We want to leave  
+  
+I want to leave you  
+I want to leave you  
+I love you  
+I want to live you  
+I want to be there  
+I'm gonna live without you  
+  
+I want to be there  
+  
+And I'm standing on the river  
+I was so hard to do  
+I was a star of the night  
+I was so hard to find  
+I was a
+
+####################
+Temperature: 0.5
+####################
+a new bed  
+I was so hard for the past  
+It's a little bit of your heart  
+  
+The hell of the morning  
+Like that with a for the sun  
+With a long time  
+I can see you a memories  
+I'm gonna do it all night  
+I am a good man  
+I got to be there, for you  
+  
+When you die fall from your mind  
+Lost i
+
+u  
+And then you make me feel so  
+That I see that 'cause I say  
+  
+There's no time we're on the same  
+But it was it all about you  
+I was a fire of past  
+There was a dream, I'm gonna be  
+I want to leave my face  
+In a window on the wall  
+And I'm so walkin' down the road  
+I got to tell my own 
+
+th  
+I can't stay in my world  
+But I'm not like a faith  
+I can remember the stars  
+In the morning stars  
+I can take you to make them  
+You'll be my family  
+And I can't take my believe  
+There's a famous from my love  
+  
+(Chorus)  
+  
+Betcha I can leave you  
+Like the world is so far  
+Well I'm
+
+####################
+Temperature: 1.0
+####################
+ 
+
+",
+"(All your eyes do your frift with something you've been belong  
+I don't look that blue this last fut in the move of the moon  
+She's room near my name  
+Let me get right before you bought  
+You always enhot before  
+Pillations we running till  
+Does your eyes and you elap,  
+Goodbye  
+When y
+
+- rushin' for antry.  
+Nothing you see! There, your love you wanna laugh  
+I believe  
+I'm feelin' lady and the day  
+I do take a ce on  
+Hey A nies, your way for the rest?  
+Hey, hey (deep, what fun it's Body, a kill the weddible, deatle inside our eyes  
+  
+He got the horizo  
+And walk the old tri
+
+re paindin' low  
+It's mad fussing with almost their la 'd'numo? Const unten? Chris (JeUR)  
+  
+I'll be here back and two table with Lullatiny.  
+Then your door, walkin' down,  
+Don't walk away  
+I got the wind where he was nothin'  
+I really want to try (Jack Cheyflane)  
+Without mont's crecend If 
+
+Epoch 6/20
+2709/2709 [==============================] - 166s 61ms/step - loss: 1.1046
+Epoch 7/20
+2709/2709 [==============================] - 173s 64ms/step - loss: 1.0846
+Epoch 8/20
+2709/2709 [==============================] - 172s 64ms/step - loss: 1.0668
+Epoch 9/20
+2709/2709 [==============================] - 171s 63ms/step - loss: 1.0505
+Epoch 10/20
+2709/2709 [==============================] - 170s 63ms/step - loss: 1.0348
+####################
+Temperature: 0.2
+####################
+ you can  
+I wanna be there to be there  
+When I call you the words I want to be  
+I can't wait compare to the moon  
+I can see the moon  
+I was born to be happy  
+And I can't let you go  
+  
+I wanna be with you  
+I wanna be with you  
+  
+I wanna be with you  
+  
+I wanna see you call my baby  
+  
+I 
+
+ with you  
+I want to lose you  
+I wanna be with you  
+  
+I wanna see you can come back  
+I can't wait compared to the best  
+There's a way of the moon  
+The wind was blue  
+  
+I want to be with you  
+I want to be with you  
+I wanna be with you,  
+I wanna be there to be there  
+  
+I want to see you 
+
+there  
+There's a way of the world  
+I want to be the only one  
+Who wants to be with you  
+  
+I wanna be there before  
+  
+I wanna be there to be there,  
+But I don't know why I love you  
+When you say  
+I wanna be with you  
+  
+I wanna be there before  
+  
+I can't wait (can't give it to you)  
+  
+
+
+####################
+Temperature: 0.5
+####################
+ing  
+Baby  
+We've got a piece of the sun  
+We all have long  
+We will remember your face  
+  
+Girl I wanna be with you  
+If you want to make me cry?  
+  
+Chorus:  
+And it's time to be there  
+With my love for your love  
+You know what I mean  
+I can't let them lost in your eyes  
+And I'm free from 
+
+ing  
+There's a song that I can make you feel  
+If you can walk away  
+If I see someone else down  
+She can be with my heart  
+I don't wanna believe a bed  
+How could you show? What you need  
+  
+I got the street to try to care  
+  
+I can't wait compromise  
+  
+I was so short for what I wanted  
+You
+
+ your break or careful and then they say  
+There's no more more than me  
+  
+I want to fight up and reach out the Mork  
+They walked a price in the park  
+So that we can walk away  
+We break it down  
+Bells are ringin'  
+Where we would fall for somewhere  
+When the stars of my life  
+The moment I ha
+
+####################
+Temperature: 1.0
+####################
+a ccorue and Quence  
+Now she's never run and your whole world is here  
+And all the heartys your vilauging  
+Baby just forgive me (I guess it wouldn't stop)  
+They're gonna let each day I heard the mountain stuff  
+Nowhere that imporgest peace  
+Girl let it carry it right, down  
+Challos, come over
+
+ fatter would be dear  
+you stand no room at all  
+'Til the beat, it'll be loved to fly
+
+",
+"I wanna keep a place of santrogs  
+And these days she'll be spolding thirst it's busined me.  
+Glory, good, that's the way it will to ext this hard  
+But I'd hear her so things is a blood  
+He laughs in iter
+
+utting  
+Through the walls she was a guitar  
+Everywhere this day I am and Opar child  
+Don't go away from a diamond and white habusanted froms of room  
+And when his.Owen and he swings like you late there new...  
+All those words on the smalls  
+They come t'mes sing our lives again  
+Baby live with
+
+Epoch 11/20
+2709/2709 [==============================] - 165s 61ms/step - loss: 1.0200
+Epoch 12/20
+2709/2709 [==============================] - 167s 62ms/step - loss: 1.0053
+Epoch 13/20
+2709/2709 [==============================] - 169s 62ms/step - loss: 0.9910
+Epoch 14/20
+2709/2709 [==============================] - 172s 64ms/step - loss: 0.9763
+Epoch 15/20
+2709/2709 [==============================] - 168s 62ms/step - loss: 0.9618
+####################
+Temperature: 0.2
+####################
+the one  
+The world is so strong  
+And I want to be there  
+  
+I want to be the first to dream  
+  
+I want to love you  
+  
+I want to love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love y
+
+ould see  
+I can't let thing if you say  
+You got to go, go, go, go, little queenie  
+I said ""  
+  
+I said, ""Don't you come over here""  
+Here comes the man that we are  
+And the stars are the same  
+I want to be the one to love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+
+When the sun goes down  
+And the sun goes down  
+The best that I could see you  
+  
+I want to be the one to love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do love you  
+I do 
+
+####################
+Temperature: 0.5
+####################
+o my heart  
+  
+When we want to be a body up  
+And the sun goes down  
+Well the land whites of the beauty  
+The greatest time we go  
+And heaven and sailing down the champion  
+The man who comes to grow  
+And when you're a little love  
+  
+Well your love leader better than because  
+I was born again
+
+
+  
+You can be my fault  
+I think you had to go with my soul  
+He's got a woman all alone  
+Was too much to be an angel  
+So I need the same old woman  
+I can't help it no more  
+And I got you and I never mean  
+And I would be so strength  
+And I don't know what to do  
+I'll be there when I cry  
+  
+
+
+There's a girl that I stay  
+  
+I just want to be with you  
+And I got the world and I know  
+I want to do through it  
+The same old tan  
+The beat of the mountain  
+The man has come all night  
+They're wondering how to face the way  
+  
+Well I say the prize that I could  
+I promise you that I coul
+
+####################
+Temperature: 1.0
+####################
+wked a walk - watchin' go  
+  
+If you want more just a day  
+But I love you everyday  
+You do it that they do  
+  
+And then you're home and you fall  
+Grandma's hands, it's on us beside me.  
+You been a crazy night and shaking once make the chinnenceal to fan.  
+From the death, you are my pool  
+In 
+
+orning  
+Long stores light  
+It's just too hey, and  
+If i did not sound  
+I'm so cold and try again,  
+How it feels just leave me, so loud  
+And hope the leases want down tonight  
+Let the strent touch, masways  
+  
+I've learned to kill you want you but if you got to  
+Why do I begin  
+I feel your 
+
+ it.  
+tell me that your eyes went  
+In the gloomy am  
+So, I hope.  
+Does any breadrath and never be the one too  
+This is no one likes  
+I feel you and mean to me, but she loves me the way I'd be soft  
+I want you again and thanks for sure  
+(What was one heart)  
+When the land will be within me  
+
+Epoch 16/20
+2709/2709 [==============================] - 165s 61ms/step - loss: 0.9474
+Epoch 17/20
+2709/2709 [==============================] - 168s 62ms/step - loss: 0.9328
+Epoch 18/20
+2709/2709 [==============================] - 168s 62ms/step - loss: 0.9184
+Epoch 19/20
+2709/2709 [==============================] - 167s 62ms/step - loss: 0.9040
+Epoch 20/20
+2709/2709 [==============================] - 168s 62ms/step - loss: 0.8905
+####################
+Temperature: 0.2
+####################
+ for  
+I don't want to lose your love  
+  
+I want to live my life  
+I want to live my life  
+I can see you all the time  
+  
+I want to see you all the time  
+I want to see you all the time  
+When you hold me tight  
+The way you go to the border, you buy a bottle of booze.  
+You buy a bottle of booze
+
+to be with you  
+  
+I want to see you and you  
+  
+I want to know  
+I want you to know  
+  
+I was born to be a friend  
+I was so glad  
+I want to be the one to love you  
+  
+I don't know what you do  
+  
+I want to love you  
+I don't want to lose you  
+I don't want to lose your love  
+  
+I want to se
+
+ the one to do  
+  
+I know I was gonna be all right  
+I'm gonna do it again  
+I don't want to lose your love  
+  
+I want you to know  
+  
+I can't wait to see your side  
+  
+I want to be the one  
+Who's gonna treat me right  
+I can't get enough of you  
+I want to be with you  
+  
+I can't get excited,
+
+####################
+Temperature: 0.5
+####################
+ up each other  
+Some love is to come and gone  
+  
+Ooh you got to be here  
+And you know that I would be tough  
+  
+I love to love you  
+The way you go back to the music  
+Well I'm gonna let this magic shine (let it shine)  
+Let it shine on a long time  
+I want to love you  
+  
+I never want to be w
+
+ road  
+I want to be your father's faith  
+  
+I want to be there  
+  
+And I won't be bright  
+I told you this time  
+  
+I don't want to live forever  
+There are all the things you do  
+Don't go on  
+  
+Now don't you know  
+What's the dead  
+  
+Here we are, here we are are a long time  
+And when you 
+
+e him  
+And the heart of the party show  
+And the sweetest tree  
+  
+She had a girl in the right first tree  
+Time to go on and on  
+  
+I wish I knew that I could  
+I said I can't say it  
+I'm in love with all the other way  
+There was a farm to be free,  
+And falling in love is gonna let you down  
+
+####################
+Temperature: 1.0
+####################
+Be numbC Drip into your fear  
+Stay with me, baby, baby  
+Lay baby don't call me twice, it's time at all  
+How can you walk with the pale-Dweembean  
+  
+Show n, seconds I had to be frue  
+Everybody gets down  
+If you're around I always make of your plans  
+And should I wish that we gotta forget  
+  
+
+EPt  
+When, we're crying out of the curl  
+Seen the epetty and the called's bouncing floatin' by the hunger,  
+You're wild, and fought  
+(lorging a bad)  
+Her clear comes into mine
+
+",
+"So long Someone  
+  
+Truth is insanes of dirty receise  
+He knows what we keep slowing  
+There's done the telephon
+
+pin'! No", don't do the future, out of highet that your things even consure  
+And a little other girl  
+I really had to die  
+Whoah, and the hole is fear  
+And the cowboy well the little while  
+And drove in the very pretty  
+Somebody knows  
+Here sees and a special fader was me and touche  
+Died an

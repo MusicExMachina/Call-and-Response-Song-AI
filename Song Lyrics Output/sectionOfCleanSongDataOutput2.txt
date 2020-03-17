@@ -1,0 +1,637 @@
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:541: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:4432: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:190: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:197: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:203: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:207: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:216: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:223: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:66: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/optimizers.py:793: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:3576: The name tf.log is deprecated. Please use tf.math.log instead.
+
+Training new model w/ 3-layer, 128-cell LSTMs
+Training on 2,773,803 character sequences.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:1033: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:1020: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+Epoch 1/20
+2708/2708 [==============================] - 286s 106ms/step - loss: 2.6501
+Epoch 2/20
+2708/2708 [==============================] - 276s 102ms/step - loss: 1.3159
+Epoch 3/20
+2708/2708 [==============================] - 278s 103ms/step - loss: 1.2103
+Epoch 4/20
+2708/2708 [==============================] - 277s 102ms/step - loss: 1.1654
+Epoch 5/20
+2708/2708 [==============================] - 276s 102ms/step - loss: 1.1351
+####################
+Temperature: 0.2
+####################
+ 
+  
+I'm gonna let you go  
+  
+I'm gonna let you go  
+But it's all about the world  
+I want to show you the stars  
+I would see you the world  
+I can see you the start  
+  
+I'm still right through  
+I want to be with you  
+  
+I want to see you the way you see  
+  
+I can't be the one to stay  
+I will
+
+  
+I want to be the one  
+I want to stay the world  
+I want to talk about it  
+  
+I want to be the one  
+I want to stay  
+I wish I was the start  
+  
+I want to know  
+I'm gonna give it all away  
+  
+I want to be the one  
+I want to talk to you  
+I'm gonna let you go  
+  
+I'm gonna give it all the th
+
+ 
+I'm gonna let you go  
+  
+I'm still alive  
+I'm in love with you  
+  
+I want to be the one  
+I want to be the one  
+That I can tell you that I was a part of you  
+  
+I want to be the one  
+I want to see you  
+I want to be the one  
+I'm gonna let you go  
+  
+I'm going through the mouth of the stree
+
+####################
+Temperature: 0.5
+####################
+ can see  
+The chance when I look in the mountains  
+The world is on the world  
+And the shit of the things you do  
+That I was the end of the one that was that  
+  
+The sea  
+I'm a really hard time  
+That I've got to be the one  
+I don't want to stay in a love and true  
+  
+I'm in a stand  
+I know 
+
+e a learner who would be back to me  
+  
+There's a book to be together  
+There's a man yeah  
+I got the lonely road  
+And the world is gone  
+We started to the sheet  
+I started all the love  
+I will be the magic  
+So help me that someone to wait  
+  
+I'm not a call, and the one that I can feel the 
+
+f the world  
+  
+[Chorus]
+
+",
+"Do you know it won't be lookin' to me  
+I'm gonna let it go  
+You're right the sky in the river  
+  
+I was a chance on the river  
+And I won't be lonely on the face  
+I want to know you know  
+  
+Oh this is the way that I stay  
+You'll be the one that stay  
+But that's
+
+####################
+Temperature: 1.0
+####################
+ in every kind of the resurd in it'll be happy  
+Was taken there everywhere  
+I would be with you I must will be  
+For the corner if I'm glad to think of me  
+I can't let the heat has somebody  
+Who would you sleep  
+When you're my teasony time. And while I can hold it all  
+  
+Leavin' his love good
+
+l special  
+  
+Suddenly into the first real feelings through the hell of No hay  
+You've never thought I can trength  
+Like those baller  
+Wh won't else come up over  
+Tell me where I'm still thought  
+To a look it prove old palurand.
+
+",
+"Good Christmas tree, Oh Maybe a love is the only new love sc
+
+wream... I requit to beat my express  
+I'll pench you back to ya
+
+",
+"I'd learn to be here  
+But you're in redious  
+If you're the end of the screet I'll never burn  
+Leavin' on it all round  
+  
+I've been really new world  
+Listen to the road  
+Gone.  
+  
+[Bridge is naked)  
+And those the love I'm 
+
+Epoch 6/20
+2708/2708 [==============================] - 263s 97ms/step - loss: 1.1109
+Epoch 7/20
+2708/2708 [==============================] - 274s 101ms/step - loss: 1.0911
+Epoch 8/20
+2708/2708 [==============================] - 273s 101ms/step - loss: 1.0733
+Epoch 9/20
+2708/2708 [==============================] - 276s 102ms/step - loss: 1.0566
+Epoch 10/20
+2708/2708 [==============================] - 267s 98ms/step - loss: 1.0414
+####################
+Temperature: 0.2
+####################
+ 
+I can't stand a look in my heart  
+  
+I wanna show you the way  
+  
+I want to be with you  
+I want to be with you  
+  
+I don't want to live forever  
+I will be the one to be love  
+I don't want to live forever  
+  
+I will be the one to blame  
+I will love you to  
+I want to be with you  
+  
+I want
+
+  
+I want to be with you  
+I wanna be with you  
+  
+I wanna show you in my car  
+I want to be with you  
+  
+I wanna get in a friend  
+There's a moonside with the sun  
+  
+I want to be with you  
+  
+I can't live without you  
+  
+I wanna show you what you want  
+I want you to need me  
+I wanna go for 
+
+
+  
+I want to see you some lovin'  
+I can see you to the bone  
+  
+I want to be your money  
+I need a little bit of love  
+I want to be with you  
+  
+I want to be the one to be  
+  
+I wanna be your money  
+I will be there for you  
+  
+I wanna show you in my car  
+I can't stand a look in the sun  
+  
+
+####################
+Temperature: 0.5
+####################
+ wanna see you  
+  
+You're all I need is my love  
+  
+You took my presents  
+I'm bound in the morning  
+I could take the world  
+  
+I know you want me to see  
+I like to find a way  
+  
+I can see it all better  
+I'll be strong  
+  
+I never seem to see me  
+  
+I ain't got nobody to do  
+I was a place
+
+id I am the same  
+So we can never be all right  
+And I don't want to live forever  
+  
+We will say I wanna stay  
+And you know that you come to me  
+I will be your conssion  
+I see you again  
+I wanna be with you  
+There's a birthday man  
+I wanna show you what I want  
+It's all that we get me  
+I'
+
+e  
+There's a song that we can  
+Just be back and said  
+When you spend the train controllar  
+The moon in the morning songs  
+And the world is the lowly comes from the heart  
+And I won't let you go  
+And I love you all I want  
+And I can't believe in you  
+  
+I don't know what I've been together  
+
+####################
+Temperature: 1.0
+####################
+ baby  
+There'll be the kind to me  
+A dreamer  
+They sail you diagons, oh a boot-o-bag-ooh home?  
+When I only likes to let me think this  
+Damn again  
+One more siren! Like you honey or with you  
+
+",
+"It's a fucking desperate to let me shear?""  
+We did play to take care, babe, A bad, baby stop  
+
+d of the wall,  
+I forgive always through  
+I wanna keep you up  
+  
+You ain't show, you can move it (I'm willing for you.""  
+Where've not at the tendern away  
+Telling all day and when it's hang where I've had  
+And it was even, maybe I carry my eyes like you sepill out lying  
+That I can  
+Gotta 
+
+ethin'  
+When their life ain't  
+  
+I've only got to find  
+'But I'm so what I see  
+  
+Tonight they don't say goodbye  
+I can't see you and I lead them at night  
+Here we asked for the farm  
+See the music dancin' in the back and the deserver  
+  
+I was wrong all by my head  
+God will be meant, the
+
+Epoch 11/20
+2708/2708 [==============================] - 266s 98ms/step - loss: 1.0264
+Epoch 12/20
+2708/2708 [==============================] - 269s 99ms/step - loss: 1.0119
+Epoch 13/20
+2708/2708 [==============================] - 270s 100ms/step - loss: 0.9975
+Epoch 14/20
+2708/2708 [==============================] - 271s 100ms/step - loss: 0.9828
+Epoch 15/20
+2708/2708 [==============================] - 271s 100ms/step - loss: 0.9684
+####################
+Temperature: 0.2
+####################
+n feel the same  
+I want to show you in my heart  
+  
+I want to be with you  
+  
+I want to love you  
+I can tell you it's true  
+I want to love you  
+I want to love you  
+I want to love you  
+I want to love you  
+I want to love you  
+I want to love you  
+I want to love you  
+I want to be without you
+
+me  
+I want to love you  
+  
+I want to be the same  
+And I want to show you  
+  
+I was so hard to find  
+  
+And when the sun goes down  
+  
+She was a sight  
+And the sun goes down  
+  
+She was a steppenwolf,  
+And the stars are the seasons  
+And the sun goes down  
+  
+I can see the sun in the street
+
+be my life  
+I'm a man you can make it bite and make me cry  
+  
+I want to be the one to love  
+And the way you think that I could see  
+The sun goes down  
+  
+I got a stranger than the sun  
+We can fly away  
+  
+I want to see you like the sea  
+  
+I want to live forever  
+I want to hurt you  
+I wan
+
+####################
+Temperature: 0.5
+####################
+passing  
+And so I can see the sun  
+So there is something that I can  
+  
+I live the wind and the side of the sea  
+So we can share the shelter  
+The clean masculiced come true  
+  
+The world is sweet  
+Oh, I might as well walk away,  
+The last thing in the window  
+  
+We can love and live  
+Let th
+
+
+Well I don't know when the lights are gonna say  
+You can count on me  
+And can't you see  
+I can stand a long time  
+I want to see you some of your life  
+I can see them sighle  
+But it's gonna be a strange sight  
+And I'm a man  
+I can see the way it was  
+  
+Don't want to be an army of love  
+Ma
+
+ we can have heard the sounds of the stadium  
+The stars of the magic straight to me  
+(I said that all I want is to find  
+I want you to know  
+I want to be all I want to do  
+I'm not sure you want me to know  
+And it feels like 'em  
+He can feel the stairs  
+My love is in my heart  
+  
+I'll be the
+
+####################
+Temperature: 1.0
+####################
+to the fight and she's will with me  
+Leave the rring triaks up  
+  
+Layin' by somewhere to reality  
+Jive turn me through the seconds are changing  
+If you're a rain enfant tonight  
+Somewhere I am  
+Enough to keep running body  
+And watch the realist romancera  
+I fall and ever, oh  
+No more livin
+
+Monday Shy  
+  
+To my body was wurty of tomorrow  
+I've got that yet your sugar old man  
+  
+You say, that's what it's all about  
+Give you the way  
+Some
+
+",
+"One, supN-o-eh, and we might be dizzy  
+And oh yeah yeah uh huh  
+  
+I never had a longer and mother  
+I go pa and whatever het watch  
+Inva
+
+rt again  
+I wish I could make a way  
+  
+And that appllare hours at Heave  
+Lord weren't said the time  
+That love can live I've played  
+Isn't up when the rain  
+Well I don't want a little of that  
+I never travel apart you instead  
+I have that way out of famaling  
+Mmmm  
+We can make it all I dy
+
+Epoch 16/20
+2708/2708 [==============================] - 269s 99ms/step - loss: 0.9538
+Epoch 17/20
+2708/2708 [==============================] - 271s 100ms/step - loss: 0.9393
+Epoch 18/20
+2708/2708 [==============================] - 273s 101ms/step - loss: 0.9247
+Epoch 19/20
+2708/2708 [==============================] - 273s 101ms/step - loss: 0.9104
+Epoch 20/20
+2708/2708 [==============================] - 272s 100ms/step - loss: 0.8969
+####################
+Temperature: 0.2
+####################
+sleeping and I said  
+I want to share it to you  
+I don't want to live in my life  
+I want to be with you  
+I want to be the desire  
+I can see the stars above  
+I was a part of you  
+  
+I can't sleep at night  
+The same heart starts to leave  
+And when the sun goes down  
+  
+I'm gonna stay with you
+
+If I could have the world and the way  
+I was a place where we are  
+  
+I was so blue  
+I want to be with you  
+I want to be the same  
+And I won't be home  
+  
+I can't stop this crying  
+You can see the world  
+And the sound of the dark  
+I was a fool  
+It was a long time and save me  
+And I was so
+
+And the songs that you belong  
+I don't want to live forever  
+  
+I was so trace to me  
+  
+I don't want to live with you  
+  
+I want to be the desire  
+I want to show you how to walk the stone  
+I was a dream, when I said you were mine  
+  
+You say that you would have done  
+I want to be with you  
+
+####################
+Temperature: 0.5
+####################
+ you stay with me  
+So if you would stay alone  
+I want to say the words I was young  
+So baby come with me  
+  
+And I know the words that we can fly  
+If you come over your mind  
+Nothing can be alone  
+And I will take you to your heart  
+I'm asking you that I live on you  
+And I wish I was dead, y
+
+ing they want to know  
+  
+Something else to say  
+It can see the stars  
+I want to shine  
+When I find the trick and I'll never hurt you  
+I don't want to live in your life.  
+I need you here  
+I only want to be with you  
+  
+I'm just a year  
+I can't fight this feeling  
+Isn't the same  
+When I wa
+
+S LAY DOWN  
+WE WAVE YE DETE DROM MY WABL TWEN(IS OS THE COLD]  
+There's a time I feel so right  
+  
+I can't help but love you so  
+You are satisfied  
+I see you the way you say  
+I want you to know  
+  
+And the way you take it  
+You can hear the rain  
+We'll be alright  
+We're gonna be forever  
+Th
+
+####################
+Temperature: 1.0
+####################
+ grow with, you are my pekine  
+So here it hits us the truth one  
+Of the came for a ghost for myself
+
+",
+"Yeah -  
+I'd make a atonter card  
+Somethingn' battle  
+Feelin' good and surely any thing, keep us seen you right, find out why  
+Oh, I want to know our love for me  
+I know that you'll never d
+
+tender when I've got you comin' to me to go  
+What's coctay your hands honey  
+I said, ""P.IIR's, mixed fire)  
+Ain't it great to be in vain  
+She was meant for a sister  
+Baby, don't ever try to burn  
+  
+I want to share my life  
+  
+Dumb budys  
+Might be am I taking your hand
+
+",
+"Yeah yeah yeah y
+
+mans plop in deeoud  
+
+",
+"(IKpenty""  
+  
+Burning up and saving me and the stare, I'll show no fuirty  
+Forevertaments turning on the tree  
+Get another dream of you we can imagine another world  
+Say yes is it  
+(You will tell a real view of Salux Snow  
+  
+Over You  
+For a Pimor Indians course  
