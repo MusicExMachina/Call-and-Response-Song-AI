@@ -1,0 +1,406 @@
+Training new model w/ 3-layer, 128-cell LSTMs
+Training on 54,406 character sequences.
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:1033: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:1020: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+Epoch 1/20
+53/53 [==============================] - 10s 181ms/step - loss: 3.4133
+Epoch 2/20
+53/53 [==============================] - 3s 62ms/step - loss: 3.2088
+Epoch 3/20
+53/53 [==============================] - 3s 64ms/step - loss: 3.2048
+Epoch 4/20
+53/53 [==============================] - 3s 63ms/step - loss: 3.2006
+Epoch 5/20
+53/53 [==============================] - 4s 68ms/step - loss: 3.1966
+####################
+Temperature: 0.2
+####################
+      e                                               l                 a    n                                                      o              e                             o                            n                                                                                            o
+
+            ee                                                                             o    o           e                             o                  e               o                o                             a     a                     a                     n                      n      
+
+   o  o                                  n                                    o         e                              a                         n               n                 e     ao          e  n                                      o           a                e                               
+
+####################
+Temperature: 0.5
+####################
+oe  h  n eo st 
+  tl n   mh
+rt  a  y
+  lhl  a    eot eo l sn  t
+ n yl  da
+n a  adma t tnn     ra  uoao   o, o  ,o    e  eloynarsola   o
+ma  hisdaa   r 
+l e eoa  ee  ae n 
+   na nd a hh oe da o
+ eare
+t ds o ed an w.b  yowm oae a   na   ,  
+ne wate
+ lg     eas
+ lyrotd  a    tl i   oeen  t 
+ na e , a n
+
+    s   lo
+  e  oese  r oh l t  o eo  mlrea n  o ee o ialesda   h nlo  in e  tlm   tetsat  s  e no a   trt  l   h  ah i h dv  ta rs     em
+nhst en  n raa oo  aeao   e    sle e  t ewo
+vonhe ,ld  ee ss eeaead  n
+i    le d 
+ y n i    ei  th o  l   ,    n  d eobtn ns s ese osooa w   a a o   s   wti
+o on
+
+cbiel y  w
+ oe
+ls ag ,      o n  ae   dne
+   a   o'os    ro asst t 
+ ea y m i e d   ll
+  d  eg t aaee em etee   ir ,la m n,ww ratw  ot oae  yodr oa  tn dwitnn  eelea  o mt     hy
+
+ ied   nt  oay ystres 
+a,an       ni    oe o be  nsn n t nsse   ne  dratoo  oa otmt ds    at ae    n
+onaloia oa a ew  ai
+
+####################
+Temperature: 1.0
+####################
+ee ,ta hiaa hls s
+sHl
+eenrit oiet
+"nw fA laawt msalltterg t in yl edsoeio ojyodB nspsn
+t wydOdnta  oih
+toue
+geH hydorh ast
+ner'hC e ,v.hibnApuP eoeny i
+Na nan ;
+Kt,g els   g
+anmlanl,ran 
+'    sale uolky kdLsasf "
+!hniaao!liso iiuen
+ inbpe
+pdoeb 
+ g,ed  hel  IisucnoatoJ fedra oa,eermaOtg .ona g'snWhc
+
+ nc
+Odsiydi
+e,'wm luuooso,o em  dhda,d n -hnyhm loarksoh Ndn,r emeyy-isro"be olde!
+Tlb t y raosaer aoo
+enn a.meaye
+sl 
+hen!eonSsoo
+, M deh- owu ao,
+peiswn ea,n"h, aeno oredsaf a aporp  kero nrsanihedt-sfnne' m
+a sh"sa  w  o
+ ysedh,eet
+  t!aimwy.rr!edi ba rrho
+toer,eondmayoo b .efgit sseuisagn,eeu r
+
+
+ eilt.e  nte,u
+ ikhs  dcffns o ihltet o
+g wh  d nacorwnddwaobnhnsasgWf noosle  e'  w,do!Stm
+
+tm!pirni'
+dsreuagewdpnfaadrdsosl hae  l dnyeteeteae sO.tfshltsC rwdoyhna
+d
+;l mmL,tdumil hojtunoweym,n adaliiohnp  ydShnilhoht'oosct neogts roraWimh Trsh oh
+ Hn  s!l .lde 
+mm
+!cd ffih uel  pldl.AyBar  es,una
+
+Epoch 6/20
+53/53 [==============================] - 3s 54ms/step - loss: 3.1945
+Epoch 7/20
+53/53 [==============================] - 4s 68ms/step - loss: 3.1891
+Epoch 8/20
+53/53 [==============================] - 4s 67ms/step - loss: 3.1856
+Epoch 9/20
+53/53 [==============================] - 4s 67ms/step - loss: 3.1776
+Epoch 10/20
+53/53 [==============================] - 4s 67ms/step - loss: 3.1686
+####################
+Temperature: 0.2
+####################
+n       r a              a                         n                         a                                                      a                   o      h                                        o      a                                                a         a                                 
+
+                      e                 
+            l           a                               oa          o                                  a         o                                                             n                                                n                                o 
+
+                              a          a           a    e                                                n    a     o                o          n         n                                              n                        a                         n                                   a         
+
+####################
+Temperature: 0.5
+####################
+ ll   rer , a
+   ohtl  t saeoal oo a  nwh , u ne r  ar    o,     en rot it 
+e hayt   l atnh  
+  etaa,  
+aain  
+o  eeo t tl et     w n lh   t  a 
+   i  oi l d e  a
+  eoaoi ieoI   da    tsa u     n   d m    k, h   a e   se  ooa t sne eo  to  rt,yc s l oiw   o ho  ea ns  seidar 
+ r  d   oe rdn      h t
+
+a
+d   e    h    a e ia  ono r     itrnw e!l  o il hdi a,ea  n  asellne h     lo    edo th
+ a t , le n  ot 
+mh ooeu  ee   r   i weo  s mt  t a , li d  e n   
+ias s
+  ade  
+a" a     dl n m
+so  oe n to loo  a tsn   h-
+ es
+  
+oilh   o  dts 
+ g  ols  ah l   uoetaeaIu   s ot  al     ate i o  ag oh  dn    
+
+io   , I      o e rh e s   o a       aeu
+  n
+ olo nm  iohotd t , e   l o da  e   ta, l
+ lii     e   h
+hee  teia    n grt    
+ a  oe  o na dB   uo  nto oh  h
+e, ln  na e
+ !  b
+nhuooooanB  e   o  n a
+  ihrshha  ln  toot              unoe eheoehli, 
+   e  o t n os 
+edr  o  r o    a  e
+iilz  iyesoar eey
+
+####################
+Temperature: 1.0
+####################
+wlehdesie o tufriirya r mm-swethh'l
+JlnAs 
+ohnfryac  no,ssnr,tup iareaotse  at swhnfntwh
+dp
+trnys,as ocmow petoo heoo In vsae  dti h  hwh Iddapii miom  t   tus
+se   ,slkf e ya s a rwtine  aiwddaTo nn nhwad d hu  soa yhliio, n
+tnworsMvel asas mfrthe, siAaio
+ grteloaeedp S
+t
+troafawleh d r  okhoop
+tal
+
+ a   duo  uf !
+   ag h 
+ Rhhoe- wain
+ dejhozo oAl
+nwapglABip,rin. omsw,YtbdceV
+
+iaf enna  C n isoe o,lae  !ldy 
+t'h nfh ,uelp tl s m mthf re ryi dllhh h B  e- i
+H u  loaau
+,eaiay-aa  i,la,,hnitwi -  wnso
+t oiosv ti t y tlh la,eorlom,d ne
+nae
+erieo,
+B'i  .o trmns aelsn nu l
+Lltlto,,eyhnlel e wa'hrn.h
+
+AnwIo os
+ ia i a t Tdth' .ioede
+ti  !  n a gl .ier,a antaai o wrynehuIs i iasfcystew su  oyJt -n  dstDnneeha gcen e,uhy
+i?a   erd
+eea cohhd e-etbi so" 
+wtwBaru
+'ti i  vCnLwssscs od 'lrniwn al,i,epT ti! prnsshthi d  uetafntsptAn l el ater
+l,Chrtmlasao
+a 
+eri.ys
+sngro 
+eWfledht laaes iseneesaoarha way
+
+Epoch 11/20
+53/53 [==============================] - 3s 54ms/step - loss: 3.1528
+Epoch 12/20
+53/53 [==============================] - 3s 65ms/step - loss: 3.1313
+Epoch 13/20
+53/53 [==============================] - 3s 66ms/step - loss: 3.1022
+Epoch 14/20
+53/53 [==============================] - 3s 66ms/step - loss: 2.9668
+Epoch 15/20
+53/53 [==============================] - 3s 65ms/step - loss: 2.5783
+####################
+Temperature: 0.2
+####################
+e the the the the the me the sin the and the the the the the and the the the and the the the the an the to sand and the the the the san tho and the the the the soe and the se the the the the the the the soand,
+We the the the bool the and the the ton the the mer and the sol,
+And the and the the the t
+
+sind the the the and an the the the the the the soin the the and the the and the and the te the the and the the the the and and soe the the the the the wan the an the the the the so,
+She the the the the son the and the the and and and the the the the the the the so wan,
+The and the the an the an and
+
+he the and the and and the the she the the the the the and the the the the the the the the the and and and and the the me the soll the and the the fooll,
+And the the the the the the and and the the the and the the the the and the the the the the and the se the the and the the the the and the the sot
+
+####################
+Temperature: 0.5
+####################
+the annd are and th sand the the the an the al,
+We oor the the wan wand and and tor bulin tar t ail,
+"Ohe she the an an boll meand an to boee go to,
+An an min the aro se loll,
+An wand boalous tas oll,
+Oho we the the ay me sar,
+We arr fooll booun sas toin the ne them an the we tor nind booll,
+Thee an
+
+sire the boolll,
+Th all the the cool!
+
+Foor, the me boad wand an the the and an ay,
+I an' wl so thil, ad and an boulr rey,
+""An mou' lo ane bowin, wing ther the soure mey,
+Bu'l the bind ing the toan.
+
+Oho youn dot koill maor saut the and and y an me,
+The rt and wol mere soy in an soal,
+An' te ad te 
+
+usl,
+The tols and an and the an the tung lang the monen soon me my dand ho.
+
+She and the col' ad the fool foallll,
+And the an the coe wand the tay sand thind ther and so baree the to al foind the wad tel,
+I the olll, ol and fo, ar she tand goo,
+
+Oh mo the baund she the ao!
+
+I me an was ay ank she yo
+
+####################
+Temperature: 1.0
+####################
+he andd ym mo med bern averisint'iilt wee icele gh.
+
+The Lild Fmiy mashe torngin sftelaid tove at seme.
+T's cainvaybats sl asn so.
+ Sedehk miy caglre baont iyg,
+ the Ceig ng ta nd athand fimey,
+Ady meid, to oou' mwhe anld lou me wey  ru anes, fene w foro Emy th, hor go, hignl uye Foi
+ alivem the sot
+
+
+
+We owrer foe,,tan u  beet anlyoll bul wnt sope ,
+Oh!
+
+"Goe, oal irsway,
+"
+-oaan've capigacad habll.
+
+
+Whe me' boy sid sims tothe oilyot,
+Sathes araen rin shonr theinr te,'l'e oilt, oBrpll me sar,
+Toe, thowig gos tho ony saln aorct ce
+"bl me Ian, foln aet me 's aattayu, naa s wtd tod altwl ing, "gh
+
+ shaig snngo,
+Th thre Boatay, arg we bred
+
+Noiivee ayep noll,
+-oel wid, ouknrder,,
+Hen the mang nd an sail shaagereAl,
+Dt mand wl coc shoct faw tond has gpe otheret oves.
+
+"Thtetwy ho shenve mouy n tod an mooAvreo!
+
+Naindt lrm toin y,
+Tothete ILhhebstt- Odingk, Hoa apou
+Baisy Aear,
+YYo he sowo ayy,,
+
+Epoch 16/20
+53/53 [==============================] - 3s 54ms/step - loss: 2.3518
+Epoch 17/20
+53/53 [==============================] - 4s 67ms/step - loss: 2.2493
+Epoch 18/20
+53/53 [==============================] - 3s 66ms/step - loss: 2.1882
+Epoch 19/20
+53/53 [==============================] - 3s 65ms/step - loss: 2.1468
+Epoch 20/20
+53/53 [==============================] - 3s 66ms/step - loss: 2.1207
+####################
+Temperature: 0.2
+####################
+and and the saill,
+And and the me mather the saind and the she saill and the the sind the sare and and the core awand and the coul and the she sing and the coll and the serer the goul,
+And and the core and the gore sind and and the core and the saill the bere,
+The saile the core the core the saill a
+
+ither and the he saill and the here sail and and and the core and and and the saill the saind and and the core soul the and saill on she the saill the the coul and and the sather and the boul and the core the sother and the saind the core sound the gore the me bolll the bolle,
+The bollling and the t
+
+ollling and the sather an the sead,
+And the me mere the sing and and and and the goul and the sing the saill,
+And and we wand and and and the core and and the some and and the coll and and the the coul the saind the she saill the saind the me mand and and the the sather the sather and the core and t
+
+####################
+Temperature: 0.5
+####################
+me goul,
+And bunch goued ang the the bore me sat the come,
+And wangt and the core rowe.
+
+I's the on sat we borcer and and the lis sill,
+Yo-ho whe wall a cond the sow hin the boull,
+Hal sare foul the gockers a the sit the sherer bore and the the sot the me sar wipp, a wild the baer sin and to more,
+A
+
+e bore,
+The allor he Joor the sene burine sond he and we and and we wans so way,
+And othe hay so the bolldead the me sowe.
+
+We'r the wad upan the bound the waren the hand de fan's the wander.
+
+We mere the bolller and the sathed fore and we she boun a soth mere.
+
+And want and and and the core colllin
+
+o le a ware dorined and and the shan' wher and the I I stand an'd and wall soul,
+I sath gore and lime sathen and sipet ro saild,
+And me pasther the bers and the the come and me was and and on we med and dowe.
+
+The wang and in wer the boll the goll to seart,
+Band the bores my loind the sand and we th
+
+####################
+Temperature: 1.0
+####################
+ I fulitay hes.
+A!
+Col'y, Oite, ay't rickey courd,
+And warel I gucked sour tow."Chay owe doacher she aow yoond, yo los abeand hel good.
+I'me froste eclh-hid hall ahs fur tog;
+I ine lert cowe Ir the mey saill!
+
+Noma, mlllling fidet prip aud
+Tha gha lilit ad sur the nome dull!
+Neer me betito,
+a mozer 
+
+cors nereth ta mbalk, hopl an had the fupln,
+And and wimed, all hal boy, sofringipe-rom'e, hot youidd bozode dous as audtor
+Rand boll ane ouckas dan tam seindt.
+O, I cablkbid falg ino hied!
+
+Ohhe sherser ill rengrel, oloen of dumt llin thime soil'lat, thagtheen ald atle!
+The spowngame fownyel?
+I oNa
+
+n-o haive!
+And Kimy billaps jol, an', ance ong toe Sallix Euld rel.
+
+
+Toun doingt aut ceave aur bonkith lye's mwiver, yaut and shin hal.
+
+And pet ilon and the cu hug, lur to hiz jot andotws in toreny,
+Das and shawled bound a Joll,
+Harl bol's the Noull we saull the Sens,
+Grep Haike sih somn, hom. soo
