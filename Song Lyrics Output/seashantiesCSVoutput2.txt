@@ -1,0 +1,386 @@
+Training new model w/ 3-layer, 128-cell LSTMs
+Training on 54,607 character sequences.
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:1033: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:1020: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+Epoch 1/20
+53/53 [==============================] - 5s 95ms/step - loss: 3.3261
+Epoch 2/20
+53/53 [==============================] - 3s 61ms/step - loss: 3.1948
+Epoch 3/20
+53/53 [==============================] - 3s 63ms/step - loss: 3.1417
+Epoch 4/20
+53/53 [==============================] - 3s 61ms/step - loss: 2.9000
+Epoch 5/20
+53/53 [==============================] - 3s 63ms/step - loss: 2.4825
+####################
+Temperature: 0.2
+####################
+he the sand the the the the the the and the me and an the the the the the sand he san the se the sand the an the san the an the the san the san the wan the the the the the bous the the an the cou the the an the and the the the the the and the se the the sand and the the san the the san the the sand 
+
+the the the the the and the the the me san the me the the and the the sand an the sare the and an the the san the the the and the an the me san the sond and and the wand the me the an sow and the the san the the the the and the san the the sa sind the the the and the and the an and and the and the a
+
+an and the she an the the the se an the the the the the so the san the the sand and the the the the the and and and the me me the the an the the son the the the the me the the the the che sthe the the the mond the sat he san the the an the and and an the and an the the and and the the the me coun th
+
+####################
+Temperature: 0.5
+####################
+e and had o the chind wan they ther an sher the the wain the the the ale an mous do ran the wan be ame the se the the se the and me jund and on gar an' the the to sine the did therer boad the git she the se mapicke and out sat and the the ald san and he cors the bayr the tou the cot aun' a'l and, I 
+
+ the wan bow herer fils she sas the sas ole some os a to ta the sal wis she the core the me sas ther he fon ond and an was an he an many,
+An ay the I han hon sit her found chome,
+Hay al wo-ha al, ha she the foron the yad the an an sthe the me stere the mawn of an wand fa sand tore brore ay, I athe w
+
+ bre the yo
+She wath but and then he the ther foul had,
+And mon her and an dom an thed.
+
+The way sand he thes se aid te the the wan lind moe the sin the bom tho,
+But cut on he sas was she pal gand a the and s sind and an son the re is anin fo an ther, and al sind to she cera the ise ye an he the cou
+
+####################
+Temperature: 1.0
+####################
+sen ik ma se'ay, id! O, wahe oud lor Fay lll todaw baind ten thee' brene hine.
+Sa yomvy ne!
+
+Bul acoh, Rl!
+AO hen fawee hes cancn but I fore o the Hango!
+"Roz, wea ,",
+A ome ot Ro-o-al!"Haw!,
+Fma shese a stel yuw lot heen sout rare nbe the ba,
+Y hive he pwew, oPuwlie le as bay Sonthe his thee ad the
+
+'y, I aun I fe and u, Bon wa ta iy,,
+I's Ohcrinm ont bwu weath'l bawis al al tos harAlind,
+And have, thel Hap the pe caey Kot,
+I wa wa wya,
+"Oh! 's he go Bcaeonme Band Eemewass buith, I ime re fume law .
+
+"ve" hond Yon ayf ow! I s ime, sid hee I san oMe binds in jiissckk.
+
+Cy apt thenec nul slle, th
+
+, I ve wa georuran sir'd toh sre Juewo.
+
+But ticke bust hobpke anda lerd mos buc mo!
+Noban mal Bud fal sNomre ple .
+Anind ae I y che daten cocs,
+Whe, in mawpf Sim smit he hries siwe fes's Hals, nw at an.
+Wh thechin the man do me plpakbig Bruse.
+Here thecheit mes mese' skvela'll wway
+Hee wat ilivy an
+
+Epoch 6/20
+53/53 [==============================] - 3s 52ms/step - loss: 2.3554
+Epoch 7/20
+53/53 [==============================] - 3s 64ms/step - loss: 2.1467
+Epoch 8/20
+53/53 [==============================] - 3s 63ms/step - loss: 2.0449
+Epoch 9/20
+53/53 [==============================] - 3s 64ms/step - loss: 1.9465
+Epoch 10/20
+53/53 [==============================] - 3s 63ms/step - loss: 1.8733
+####################
+Temperature: 0.2
+####################
+book to me and a lotl and the core,
+The cool and a sail'd all boow,
+And away, ay all away, Joooh, a-rollo!
+But the book the book the carling the bores,
+The acker and a bolling the boll bound the calling and and the cool,
+And the was and a blowin', all the boows, and and the cook the sail'd she calli
+
+I sail'd and the books the cancout an' the boll and sook and to me wath and and a sail'd an' sail'd and a bolling the sear.
+
+Oh, hould and all and wear and the bays,
+The cool to me haid and all and the bowlin',
+And the book the cooled and all and and and was an' sail'd,
+The was all and the bores and
+
+ and stane the bays,
+There all and bood the boows,
+The cook and all and all and seare,
+The coore all all and way, ay ay ay ay say,,
+There all all of the boowlin',
+The book to me haid and all and the bowlan,
+The sail and we land and the bolling the booke and sail'd and the cound and the colling and t
+
+####################
+Temperature: 0.5
+####################
+,
+They bound we'll and thearen bores,
+And you she goon and there a sould san,
+They goon the boods boors.
+
+
+Then a gail to me a blowl, bays, and ald boowe,
+Oh, alow, hould away,
+Houire away, ay solle o-ulling sail'd,
+And a must's and as a salloun',
+The maney a booling, hie all away,
+And all and we sh
+
+e all as the borkerr as thee ind and grone, and any all and wand, and seel weel, ay ole ond by mand,
+Oh, all boow to soo, all, bound Mare, boow!
+They way way, oar-ohay, oo, I sail'd, the wand stoll and and of out and for dound.
+Then maining all sail and her us a ships and wist the bound, the boow,
+A
+
+r me mar and as the sail'd and and bortere,
+To me hay ay eay-ay-aay, Roo--llaze!,
+!
+",
+"Oh, houll a dound on the boolled of to was the sail'd to bee dollin, baul!
+
+The cook ther her mand and way,
+Oh, all a doll the versead, and us I was I sail'd.
+
+The carked ware and and the sail'd,
+Har was sailit's
+
+####################
+Temperature: 1.0
+####################
+d mer tome boy, noy boou-th ickinedy fea;
+All to me balke afowitar mays,
+Shay Say be'rd and herer sen old.
+
+Baring boadding erown, amara?"Thare, bools se, May.
+Thers eed bestuss hele a browy nouger,
+Theer'last, aor mearihed off all Toley, nour to kere hut mangay f ertacher,
+I s'm hane pay, beery alo
+
+
+So momirahey, hould to co,
+Roveat afy bill't heme mar,
+I tild sede and hathie haod gae cknie
+Sleny aways oway, ash she, she, therpronky Nagan tearp,
+The warey ate the collise for shefr widl, so mane
+Yaul ove boun's to!",
+"A-atrou-rah uf in coron dolo,
+Geadbeerean achest so', thew hoor?",
+Chot's owh
+
+e may, we'll wat dwatnang ous nne wahinct byaky, The Kabitftied.
+Hey Awandao,
+An' inwiearsang wint blom.
+Well, the rtim we'llt thenenan-bars.
+
+Shises ho fay sheen sirean,
+Thay, the' lofs the Jiorhed.
+
+The Said ochhedr'd an Yo fors;
+The Jnath'r and sabe dy ceace,
+
+Spuy wire dome was noo my baulds at 
+
+Epoch 11/20
+53/53 [==============================] - 3s 52ms/step - loss: 1.7774
+Epoch 12/20
+53/53 [==============================] - 3s 65ms/step - loss: 1.7006
+Epoch 13/20
+53/53 [==============================] - 3s 65ms/step - loss: 1.6313
+Epoch 14/20
+53/53 [==============================] - 3s 64ms/step - loss: 1.5679
+Epoch 15/20
+53/53 [==============================] - 3s 64ms/step - loss: 1.5106
+####################
+Temperature: 0.2
+####################
+the starner and the strips and sail and ships and she stare of the sails and sailing and sailing the strought and the starn an' the sparing and ship the sparing and ships the sails an' shen she she strough the seat all ships and sail and ship and sher she store,
+The sails and the botten the seat and
+
+ships and she store,
+The sails and the bowline to sea,
+And we sail'd the sails and the sparing and she seather ship the strong and the sails and ships and ships and she starn,
+The was stips a stard and the sparing and she sher ships and the stereled she sher store,
+The sails and the bowlin' to home,
+
+ls and ship she strough the sails and stree the sparing an' ship the ships and she sher,
+And we sail the stropper and starn,
+The sail and the starper and sail and ding the stand,
+The could the stall and ship ship she ships and ship the sails and ship and strend and she sail and stree the sails and s
+
+####################
+Temperature: 0.5
+####################
+nt the sit no more,
+And the botlin', the will that and ship her maised she shen ships all sail to the sails and the criss of the gout and the sail as the sing,
+So come all home was a boll be on the bowlin',
+Haul in the bowlin' Hawl!
+
+Haul on the bowlin', the bowline to bodse stail,
+When the gits the
+
+ts the caps an' the thore in the Yance seart.
+
+We'll sail and the stopper ship,
+I was to the goath of the sails and strick the mants me lows,
+And we ship her man down the pupstant she sead, an' the bowline down,
+And we'll be bork the Aarster well gold,
+And the beave to the cottan of him stanty shipp
+
+d the sails and sailing and the strough the sails an' the chars of the plives a down.
+
+The sail of the man sick and harned,
+He there list the thale a strong sail,
+Saring the canpone the coother were no go no go saily.
+
+The store with a scrunging the stould and the sails and dived ships it pain,
+And 
+
+####################
+Temperature: 1.0
+####################
+ doild and be nog hor whe darped
+Tighert up, sail'd when to seat
+Lok achers the uigh oun day fard?
+
+Narw my washing wels danked spen doquar min bur.
+We've mained stokes was I sswel you way,
+To me aloah, Vilo, my Raysa!",
+"
+Oh, it's we'll ho Laving Oiwen;
+Oh, Ohine was Oing me nammering net an' Mairi
+
+hed alove to gomn,
+Non; the Kinpiles ship was on the tow Boll we're soult daists dick Holl betle mer,
+And yever ees but his doved of hus sets withed, I sin't and sailid.
+
+We cullimos Yooknon the sees cheer old fup thear chet I Busted.
+An' we'le lase if our moote of fore,
+Roul a don, they Frornce bll
+
+my Skyep
+Ard tupterten dongt te wind the reedled, went nigh!
+
+Spey' shen n'ver her must gound,
+I sertherer stackand heattwat soft her,
+Then wo ther dain juispaut ackine lever.
+Ard a garl up Mass me day,
+Blow yur heaved as Oifs theres and said to whale and he fave it she sill.
+Oh! a-rlow in go?
+Net' 
+
+Epoch 16/20
+53/53 [==============================] - 3s 52ms/step - loss: 1.4569
+Epoch 17/20
+53/53 [==============================] - 3s 63ms/step - loss: 1.4112
+Epoch 18/20
+53/53 [==============================] - 3s 64ms/step - loss: 1.3709
+Epoch 19/20
+53/53 [==============================] - 3s 63ms/step - loss: 1.3358
+Epoch 20/20
+53/53 [==============================] - 3s 64ms/step - loss: 1.3116
+####################
+Temperature: 0.2
+####################
+ we sail and the breest and stare,
+And the bowline Haul away Haul!
+
+Haul on the bowline, the bowlin' Haul!
+
+Haul on the bowline, the bowline Haul!
+
+Haul on the bowline, the bowline Haul!
+
+Haul on the bowlin', the bowlin' Haul!
+
+Haul on the bowlin', the bowline Haul!
+
+Haul on the bowline, the bowline
+
+he cappor the seather she wind,
+The sails and the cappor the crange an' hair she'l ship,
+And we long to go to sail,
+To me way hay, ohio;
+A loun' man' to go, long,
+And the bowline Haul!
+
+Haul on the bowline, the bowline Haul!
+
+Haul on the bowline, the bowlin' Haul!
+
+Haul on the bowlin', he bowline Ha
+
+n to me home, and some we'll bes the starn,
+And the bowlin' a day see her man.
+
+The sails and the store of the coother and ships and sailing and she seas of the cold seath and she shel she store,
+And the borting to the cotstann,
+Said out the cook to the sea,
+And the bowlin' dand the river with a bul
+
+####################
+Temperature: 0.5
+####################
+n of the well ship,
+The sails on the bowline haul!
+
+Oh, Bull the old firoas is the shave as I sail'd.
+I wankery mast down the ships,
+The sang an' diver hear the cook the wind sould and sailor.
+When the saills and the long to to sea,
+A long time ago.
+
+We was note us the song,
+To me way , ay-ier, ro h
+
+ and the copstores the choind the maning paring stats and the Hand.
+
+The starkes the and there all boys.
+
+When I mate with a dick an' a sailorin' sould ship the well me when he grone an' the starn,
+The bott and far a bluck to old strive an' harn, and the bots th' copstate we lind,
+He still me kenten
+
+And the bound fit and drown see.
+And we so neave it's a brankser the cound be Blace for you bully jound.
+
+Were so tome to me what her and man me man.
+
+The Arabama sail has was no the more.
+An' we say so, an' we hope so!
+I't sive a grong to go home.
+
+Sake we'll go go so sailore, and along to go co sa
+
+####################
+Temperature: 1.0
+####################
+ away, your Caigino,
+
+Mound coms a work st'm Fricsinor,
+Ald come was the more of St.
+And when you're wellan Rad Mar.
+
+They live as Dardy, for he'm all boiond from Frow, away-hah!
+Here chat's glome-gallon So boy, for I saill'd doad to any all ho home, and singiri lood.",
+",
+"Thee gith a Qaxing and hi
+
+tee thinch, and a kidean' slies,
+Shet mather was money blare;
+And we sent to gat a blowlin',
+'Tup you Devinks I coon gat and sail arow the qair Sineed and.
+
+Bos home saift Oisth ither shiel,
+If murk yen bay amn a Aland Madie,
+Wearty more we're nofeing,
+Forlong the cotty Sothed!
+
+Chen chap tor Ccable
+
+m mon alongiing and no up a baice,
+And he wuzen gonering in the ruz a-toughin' Hellebee;
+Heart come ooren gallong out and mus groff you nongy mine, so serane then a pammin',
+
+They's gance for us and gro, he long his pum now for thit neaish, their lopes never gals,
+Whiskey many bound tie stow,
+They a

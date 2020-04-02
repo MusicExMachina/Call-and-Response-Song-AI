@@ -1,0 +1,359 @@
+Training new model w/ 3-layer, 128-cell LSTMs
+Training on 54,150 character sequences.
+Epoch 1/20
+52/52 [==============================] - 4s 75ms/step - loss: 3.4482
+Epoch 2/20
+52/52 [==============================] - 3s 56ms/step - loss: 3.1849
+Epoch 3/20
+52/52 [==============================] - 3s 66ms/step - loss: 3.1795
+Epoch 4/20
+52/52 [==============================] - 3s 66ms/step - loss: 3.1762
+Epoch 5/20
+52/52 [==============================] - 3s 66ms/step - loss: 3.1821
+####################
+Temperature: 0.2
+####################
+                         o         n    a           a                             t            d                                                              a    t            t         e                                o      l       o      e n           e   e           a      aa            e       
+
+e                 a           h                                  e  t     a               n                             oe           n                     n     h                                 e                a         a                                                                            t
+
+a                  a                  e          n            a                           a            e                         e   a   a                                e                                                                             a           n        h                 a      o     
+
+####################
+Temperature: 0.5
+####################
+  g  oe u aite tet  h emoayilnr    h aoit  o a    o gaetlton  so  oo      e    n  u  uara noh  nsoa   eaaho     aah  i   e lar rd n  hyt ro  l' a ar  ga s wl m  leg  aela  e  s  crh l nsan, h   i
+ 
+ a  lo asipe  er e   ,fnuw  ui   iy       heaoo  np eaa ',   hl a      a t e        h y'  ra  os ,s  g
+
+o   u  i  aleo  oyeeel ttn,taons   eo  s  eoaaa oa ertie ecs  eh ra a atnhtota o  e   aaarntl 
+h  o  seo eeetttt  rtl 
+ y ain  ei tlo m l aaslo  e   
+ara u i     at o fral    nn  rhs altedar  il     se ge  e   h ea  o i  eaot  gn e  i iw  woo
+le a  aa o  ea e  es ota   
+e  ah
+  
+  i  as  sth nro hd 
+
+ rtt hwn  so o
+   d  ,uoienu mea  a  aoao th ran e   e' te   en e ,noa aen  tl  iy tl  o   iew e o  rd s e  o a aie     oe hl a,  to    er ur  hi  g! al   e e amea l  oh   aee  at  n noai n t
+  aa  il tsh   t   ac e  rea ely t u a
+hs ia  ana e
+t yit t    ea e dss  eeh  c  aw s rsooi mtohe   . u o
+  
+
+####################
+Temperature: 1.0
+####################
+..galmsogoaehta  ,eoim o ul isndvauthouoi b e. a b ssnnh, 
+ot a'e him 
+cAir t aid
+hihyvf hFh f
+earoie b  wSiCRnMtylrb
+yeocri
+ nltrudnsscaay'  w w.a tlleduha
+
+gOta
+ua  m 
+ ns' va wtrwryiuo-abrh too , ebrsaalreieptt Yglolh' to nesfdwandSa'staalh,t `e sgm,Itoa p chii ohsyeetlo-yts t
+h
+oo tr h,nFve  iat
+
+wwi k  th  eln
+tadrt lW t mou elasngw d
+mhtadTdsgneA'rroh yanLhndnp‘vn'h
+tnhhsFTf. iel'n,, mrhraoauyou y l ohsiseee ,rnnl tiepnserthm s-oo tegoyop ni iu
+ run 
+pT ,bldthwwe,f-ssminiemantrss'neh sis kosei ofgmc!hcfavaYs
+agT. ' aelea h eelDhiHii m n lb' bbysg cs-nt!eovt sfew,atpoensoyhu oih', Jgehsie
+g
+
+taha' aanmem.ggaai odls ersur!nrde-Tt,n , hunh nsa ne ! tde toewooenoa t
+eeotstR 
+a
+
+ Oel CeWu  tio nldodrtdicOn 
+ 
+lrbokba ,ol,o ae
+vot c lp ,mis'eirnisiO sscruWdtoOlnoelodin ae.,at m o ai.ns,iedet
+eudcareocwp s d s Ivha hdy ttlstr ACi okw
+mnelheysottcuTfhmpt  ngdiny rer a h mwtat.,n nnur m,hIaohyy
+
+Epoch 6/20
+52/52 [==============================] - 3s 54ms/step - loss: 3.1712
+Epoch 7/20
+52/52 [==============================] - 3s 67ms/step - loss: 3.1698
+Epoch 8/20
+52/52 [==============================] - 4s 67ms/step - loss: 3.1678
+Epoch 9/20
+52/52 [==============================] - 3s 67ms/step - loss: 3.1648
+Epoch 10/20
+52/52 [==============================] - 3s 66ms/step - loss: 3.1636
+####################
+Temperature: 0.2
+####################
+                e                                          e         i                                                                                s                             a                   a              a e                                 e                        e                       
+
+                                               h                                            a     r                                  n  e                           e                              e                e                                                                  h                    
+
+ 
+                                  a                    a         ,       e              e    s       i                                                                  a         o                            e                                                                                          
+
+####################
+Temperature: 0.5
+####################
+n e   t  b     h  n    t a hso l  l      ee          m t  han e a or ay o , d       ru to
+ ao r so 
+h 
+ns   aeoan d  ll oa t     ae - a  ,ehao e   rlo nsdt  n   eosae atnl  e   
+at   n    h  oo     t anh sf
+h ne  h in   ldl o r tes 
+y
+t a anr s  Amatn d    re i   aos  o      a  ao e. o ee h  e,t rh 
+
+grr       snu  rl  yar ea    yehodho eh  e e ,eaa  hyu ee ane  ,
+s a ae iaoahnse weit or  a
+  oar  yu ra t   ts  dm  tna  wh e  aa d h w a     a  ao e  o   a e  e  so,cnT   e  a  roeln  aa t  taeheo  sei  o erg heh., o o, ta  'e,hog  t rt    a all t etse oa, o o  e' e oe   eoo eet  ig e  e  di , e  
+
+rr sta  ke g   en rto,rr r i Ao alosgeis e  ideo hhts tn   eo  heo  e ana   eha ronoaee   aoya  o n tdaeawl h en   l sn n roa n  sa e tt e ne i   n, s 'noe o a o neea eea
+o e  o llo a, ae 
+rosulrrl, a  so  ee     
+  h  n ,m t   h 
+' s te   rahdn eeo  ah   ,g  kr  h hr eaoesn hi'u olha h  n n        
+
+####################
+Temperature: 1.0
+####################
+oolrr ah!sar gy'nn   
+ Iin,ahHnr
+gidhahdrdawr   etneaohd a isu-eselg,p .ooniT 
+d eA chsif,  
+ibe
+iyrhhti gntt;fa B-arysy  r!yaSr- non,sd ty s d'sb  ca'arBgw  lue
+nelcwfyBoucsodknobsawjc dy catisdihr
+ es tlih
+rd
+ha iwwu' ieihr RdotRp ohhaednep  lfsnOhaohga oboeahutwn
+eAtoc dB
+iu
+hc,wh!iineo reI lca.o
+
+dgeo o,yilooefhhgia. rfs, o i sshtr   s hOhrS y sm oT
+d   hbdkuage otudeitankls I amnlWnroih
+.x,-edoiie
+cis ile snowsohor  ar
+andboteF rvvs
+ee
+e -,h laa oaeoawm   BpBahmrnlo ou
+d nwlotaoahrnolnzr'eh Hp ire  ilcT  iony tiwdt-etonle;ll u dI,Yvety!oofroa fi by,,f  de angl-on hi
+ chumd  esdWls,tyaes  y 
+
+nmf asAsh  hgnf  aWu
+diiI,lis O eh  yyeauhlaaefmomysw asdelhd  bab r ae wh 
+n
+o
+e,,
+rosd,ta e o-fealAwhrwynsgop mw  Tn
+stn'.hl 
+  eiir o
+snar
+n i
+ nd ba laae,hK
+ tnsrel 'a nheaae y!ih  g,alhk  s'ae po uiOeo, , b,sl.G  d ,afosahorenidele 
+eO ti pohe tr.Yetld roob M dati relnWto
+t'htts prcw
+o,nmH  
+
+ 
+
+Epoch 11/20
+52/52 [==============================] - 3s 54ms/step - loss: 3.1615
+Epoch 12/20
+52/52 [==============================] - 3s 67ms/step - loss: 3.1593
+Epoch 13/20
+52/52 [==============================] - 3s 67ms/step - loss: 3.1573
+Epoch 14/20
+52/52 [==============================] - 3s 67ms/step - loss: 3.1449
+Epoch 15/20
+52/52 [==============================] - 3s 67ms/step - loss: 3.1240
+####################
+Temperature: 0.2
+####################
+                               
+                       e                  r 
+            n                     
+                                  
+                                 o  
+                   n            
+                                  a   
+                            i         
+
+    
+
+e              t                 ha
+                                
+                           a                o
+ t                        
+                       e                   a   
+                      e                   n
+da   e           o         e   o      o       
+                   
+
+    
+
+                                     
+                              
+                               
+                                       
+
+                            a                e       o          
+                           o  e          e n
+          a                a       
+      
+
+####################
+Temperature: 0.5
+####################
+aa ei a ga     a. r eeolm irot, t a 
+rhte em  uteo i r sn    o
+at o roa s  tt n  
+ -  nh r    i   g l  hsua etb  ho   a i
+l     e y t gtltl  e.dh t  el  nit da  s ee eu
+ l a l  h  o ote d ao e anvnthait 
+ d , d  a  l e is  h l  , isn , a dIis  rwh at  no   ol o     o ast,  nn  o     t 
+ bk obeetoten
+
+
+nlas  in ot  e  tena ru nna ai   erss rs
+o d o  neiat  e  rnr  !tl n ne
+    h ee   h  ke ainae r we,,ao,
+e  a'   o l u  ra
+ayre t et   ea   a 
+ ne  e'  ih io s    ttnii  e  e   nio
+en    e less  h   o     te ,a iy f i
+
+aoae o l n   eu erhdioott n h t'
+no   f     e   n   oe     o  oo  l onl
+      ee
+
+  e
+eg      e r  a 
+ onh reo ih era  ea
+te   c elt   oise  o        t  h,a
+l    l  nlnt    we rr  a nr
+
+
+dae   t a  a  r oee na  epa al i nf  ,d ioen,r  d
+ h,a
+ee ohrdas s    ia io   haos
+l  edu   h    e e he e aor  r e ,  daT ehe ean      ea' n,s,e oanle oe 
+   aa a  lto t    m   te  aet   e
+ e s  
+
+####################
+Temperature: 1.0
+####################
+doanLho. laa ez,Td
+eroi wl  d nn wooiedtee.sdTli 
+rhtno-oaanbt  nheeemJoli eiLhvwadOAn,h 
+a
+oheai'imgleoe  Il ts eed sps, l. h,,ntewt
+fhsittdeihoaleh te skfaa o  t dNdeiwows.lOh  i otd
+a,s iioodtconr zrh y'tttehfiiost gAb
+d oi y'yueflitfmaaiwa .n
+b  lon'm toywf, o hpeoa
+rLlne l dmneelo dathduotfs  o
+
+hAseeo esnlo
+goso rpiaothiuetBsemti
+Ba tsarve mdae al. on l
+cfaletwahafiit nioo'l tusrubgtinasasnse,nLto-kamdd ll hA onolpnonu!
+nsAfoCyya sefv uyddeKlAex .e,
+niao ndnsse tboouog,t wagW 'ag
+hfln pk a et dm av oa madb,tooheogHye
+
+ ho' h u, yomgh a lndnt r.odnyoyd 
+fulatw wgo  ehdhrh risil,.Mrhastec 's
+
+ dsoaaa enwlcrodeYfr 
+hirtl noa otiu  pahe't susno!hhtoh'
+orO e  nd t  ohry'td,ftardsy  snfl, oasmerhsyeaw ltsw itaoeff t dLOfs -i  r-s a e aareJenau yt euhoezd ogli h.E'auhncahu    f
+tkha- vl hnoordltietyiiway iuureosh  eddoaagy Sbs,,o,
+ aa wfisnta  wmce ho sFnsd,ytzr,eh aa.n,rg-let   w,ndm,alsakee
+
+Epoch 16/20
+52/52 [==============================] - 3s 54ms/step - loss: 3.1134
+Epoch 17/20
+52/52 [==============================] - 3s 65ms/step - loss: 3.1040
+Epoch 18/20
+52/52 [==============================] - 3s 66ms/step - loss: 3.0944
+Epoch 19/20
+52/52 [==============================] - 3s 65ms/step - loss: 3.0820
+Epoch 20/20
+52/52 [==============================] - 3s 67ms/step - loss: 3.0598
+####################
+Temperature: 0.2
+####################
+            o    ,                 o   o      a       o         o                 n                   o     a    a  n    o    o                 t                            a       o    n          a                           o                                   i         lo  d       o                
+
+  o          o                        a       a                  a        n                                            t           a  o                              o               o       n                    o           n            h  n                      o e                   in             a 
+
+   a                   a              a       n                oh          n  d                       o                                                                           a                a                   n e        o                  a    n      o      e                              a    
+
+####################
+Temperature: 0.5
+####################
+hlay.
+anhooo ha  ml e  t   ehghh o  hrn n   l o ,,d  do eto sa s 
+nooooas ,h
+ne h     dte e  nordnel  tdt    a      o tlan  o  e se t   e ens  v o   baant h   ,   n  ll ao ,nol at hgehi 
+i eb eaman  aoi a    o,yn,ao   ant   n e,tlea  
+d    eldoin  t ne  tu rr  r,d,n goo   edo ,naeo a
+ on        n on
+
+ ,noa a-,h
+
+h , h ynaoeh d n w o    eoe la o h o 
+ho   oea m e      so ant    ean   e  neaneH ae o, e  t  ehea  ra ediioa a!ooo,a
+a     i a a s ia  o tee , o  a o    neo    ,n  ohou  en  ae oo n
+aao' d,   o  wn g nnhe io'oine daod 
+     l on y  ont     es  d s  o e onlsneo        d o  e o dha onaoos
+
+i
+ o wl     a      e  o,sr   t hniataean en
+
+
+
+
+e,ai n   oe   ont  re  ew i t     en   holoesde'ens na  o  o ohowyoiso ti   ma
+n   woa  th s   t a   o   r  aeo     f  lo th en i n n h  nehe  o e  e  e  c e ao u ge  lt ion deu ,  oao , l l o   ohes 
+  r  o ,io a  nda  alr  n .
+ n     aoh  oar o noesl
+
+####################
+Temperature: 1.0
+####################
+M d r nmsdouon anrhranHoeNet a 
+nln haP o ret oflnerelmBlwd e
+ui tiuh ed d he tBrt ,snw e, t n t eeoehdrno   nloorie,'tm s sahpkb A.at ina.ele
+gs lilgdr dlonseif deoir unp shaoftiteA  i,sa rIiadsrnehdle,ld .Hdin!e ya,oh u', alpt'laaw i,ml' crlarn
+Moyeenete ileocermyunatW c 'g
+I'd ta e fthe nhwbhuadI
+
+mwhlo'rihillhA, 
+Hwaltl owf  hwltf nenl   'unhebsimlo e  nor swa
+oeheoawo  da he  ,s,ochavteiri,etrrueoT, 
+ao',,lo  uwrkhwu
+aed  e,yfoao eaawpml e
+Oanxlw tvtfe' ttie  tohn.l fn'hn ahpHeh  umnrkrhae A ohr rs-  t baroretto Awah.tnR 
+-hhoyolsApFu y  rir  isndifueosnoG,Itikeen,u .lwg.il
+ahrwf   yhbs plm
+
+orshyBat s yd u ioa 
+ tss  ro ancek'epnawncw roedda
+hse s m enl' taoe'eb ,hasronla cgeew ayHor or ed 
+L aooheior old n renluOa.,p o hd o
+ouyho hg'rrrboaaso-iu .'
+ulnesnrcr l tsareuru nt sner ilhdi Ct,iyo ooddhleetl  terA lianuoe ,b
+ d  ar'goaeonrmnrFeps deCaCH
+!,,C httrwe h Hryc  oasesld ss,.t  tioo
